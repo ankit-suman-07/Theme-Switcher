@@ -1,6 +1,6 @@
 .theme-box {
-    width: 500px;
-    height: 510px;
+    width: 85vmin;
+    aspect-ratio: 1/1;
     border-radius: 2px;
     box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px;
 }

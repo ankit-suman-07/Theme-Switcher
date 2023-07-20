@@ -129,11 +129,18 @@ const ThemeSwitcher = () => {
                     <h3  style={theme.h3} >Theme-Switcher</h3>
                 </div>
                 <div className='main-content' >
-                    <p  style={theme.p} >Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt 
-                        ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco 
-                        laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in 
-                        voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat 
-                        non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                    <p  style={theme.p} > 
+                        This project demenstrates the theme switcher using ReactJS.
+                        Tap on any of the <b>round buttons above</b> and the theme of this 
+                        mini-website changes accordingly. 
+                    </p>
+                    <p  style={theme.p} > 
+                        This is a simple project where several themes has been created as 
+                        objects. And they contain inline css. Evertime a button is selected, 
+                        the corresponding theme is selected and it is applied throughout the 
+                        mini-website.
+                    </p>
+
                 </div>
             </div>
             <div className='footer'  style={theme.footer} >
