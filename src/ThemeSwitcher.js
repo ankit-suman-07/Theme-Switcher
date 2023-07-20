@@ -130,13 +130,13 @@ const ThemeSwitcher = () => {
                 </div>
                 <div className='main-content' >
                     <p  style={theme.p} > 
-                        This project demenstrates the theme switcher using ReactJS.
+                        This project demonstrates the theme switcher using ReactJS.
                         Tap on any of the <b>round buttons above</b> and the theme of this 
                         mini-website changes accordingly. 
                     </p>
                     <p  style={theme.p} > 
-                        This is a simple project where several themes has been created as 
-                        objects. And they contain inline css. Evertime a button is selected, 
+                        This is a simple project where several themes have been created as 
+                        objects. And they contain inline CSS. Every time a button is selected, 
                         the corresponding theme is selected and it is applied throughout the 
                         mini-website.
                     </p>
